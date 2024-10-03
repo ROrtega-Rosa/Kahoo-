@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### img
+![Captura](https://github.com/user-attachments/assets/28e79b79-799c-46d3-9ffe-b0368a7a21ae)
+![Captura2](https://github.com/user-attachments/assets/9b61c1de-16a0-484a-ad04-a37ed5846cbd)
+![Captura3](https://github.com/user-attachments/assets/9d82cf63-eb2f-4d74-85ab-6cce961890b9)
+![Captura4](https://github.com/user-attachments/assets/12d50fe5-ca5c-4340-8007-b06b256bd746)
+![captura5](https://github.com/user-attachments/assets/807d8318-8dcd-4ea5-80ce-faef8c6ba2ce)
 
 ### `npm start`
 
